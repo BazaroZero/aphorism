@@ -2,7 +2,7 @@
 
 Yandex.Lyceum Flask project
 
-Aphorism is the REST API of a new social networking concept or we can call it a podcast platform. Posts can only consist of short captions and a voice message
+Aphorism is the REST API of a new social networking concept or we can call it a podcast platform. Posts can only consist of short captions and a voice message. At the moment the backend is ready. The web version will most likely be developed later.
 
 ## Description 📋
  - Each user will have his own profile with gravatar, where you can post, see statistics, change status
@@ -24,3 +24,17 @@ To run the tests, simply do the following in a Linux environment (in Windows it 
 ```sh
 tests/test.sh
 ```
+
+## Approximate web version design 🖥️
+You can see the progress in the ```feature/frontend``` branch
+
+- Index page
+![index_page](https://user-images.githubusercontent.com/64976988/171383461-1f0aa4fa-3b19-4999-a0dc-6f7c137a7ff4.png)
+
+- Sign up page
+![sign_up](https://user-images.githubusercontent.com/64976988/171384598-a979cf15-a04f-47bc-a595-e9dfb524ecd6.png)
+
+- Feed page
+![feed](https://user-images.githubusercontent.com/64976988/171388994-8ce5add6-6c03-4185-a4ca-96bcbb3da4be.png)
+
+
